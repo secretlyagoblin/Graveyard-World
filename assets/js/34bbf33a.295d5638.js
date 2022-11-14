@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[1614],{6864:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/graveyard-world/blog/tags/docusaurus","allTagsPath":"/graveyard-world/blog/tags","count":4}')}}]);
