@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[8670],{2987:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/arvahnt","page":1,"postsPerPage":20,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[1586],{5276:e=>{e.exports=JSON.parse('{"label":"Recrentius","permalink":"/blog/tags/recrentius","allTagsPath":"/blog/tags","count":4}')}}]);

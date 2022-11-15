@@ -480,6 +480,12 @@
         <author>
             <name>Chris Welch</name>
         </author>
+        <category label="Arvahnt" term="Arvahnt"/>
+        <category label="Atrius" term="Atrius"/>
+        <category label="Eilyac" term="Eilyac"/>
+        <category label="Recrentius" term="Recrentius"/>
+        <category label="Arkenreln" term="Arkenreln"/>
+        <category label="Adventure Log" term="Adventure Log"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arkenreln Chapter 3: Library of the Bloody God]]></title>
@@ -491,6 +497,12 @@
         <author>
             <name>Chris Welch</name>
         </author>
+        <category label="Arvahnt" term="Arvahnt"/>
+        <category label="Atrius" term="Atrius"/>
+        <category label="Eilyac" term="Eilyac"/>
+        <category label="Recrentius" term="Recrentius"/>
+        <category label="Arkenreln" term="Arkenreln"/>
+        <category label="Adventure Log" term="Adventure Log"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arkenreln Chapter 2: Planting the Seed]]></title>
@@ -502,6 +514,12 @@
         <author>
             <name>Chris Welch</name>
         </author>
+        <category label="Arvahnt" term="Arvahnt"/>
+        <category label="Atrius" term="Atrius"/>
+        <category label="Eilyac" term="Eilyac"/>
+        <category label="Recrentius" term="Recrentius"/>
+        <category label="Arkenreln" term="Arkenreln"/>
+        <category label="Adventure Log" term="Adventure Log"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arkenreln Chapter 1: Wall of Flesh]]></title>
@@ -513,6 +531,11 @@
         <author>
             <name>Chris Welch</name>
         </author>
+        <category label="Atrius" term="Atrius"/>
+        <category label="Eilyac" term="Eilyac"/>
+        <category label="Recrentius" term="Recrentius"/>
+        <category label="Arkenreln" term="Arkenreln"/>
+        <category label="Adventure Log" term="Adventure Log"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Prologue Part 2: A Horrifying Magical Tragedy]]></title>

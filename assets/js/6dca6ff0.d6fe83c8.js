@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[1161],{7479:a=>{a.exports=JSON.parse('{"label":"Adventure Log","permalink":"/blog/tags/adventure-log","allTagsPath":"/blog/tags","count":4}')}}]);

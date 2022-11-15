@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[412],{2673:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/adventure-log","page":1,"postsPerPage":20,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

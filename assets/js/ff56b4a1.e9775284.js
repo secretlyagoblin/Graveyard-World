@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[6533],{7279:a=>{a.exports=JSON.parse('{"label":"Atrius","permalink":"/blog/tags/atrius","allTagsPath":"/blog/tags","count":4}')}}]);
