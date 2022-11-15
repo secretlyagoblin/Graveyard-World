@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[7915],{7144:a=>{a.exports=JSON.parse('{"permalink":"/graveyard-world/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

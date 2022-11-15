@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[4925],{8568:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/graveyard-world/blog/tags/facebook","allTagsPath":"/graveyard-world/blog/tags","count":1}')}}]);
