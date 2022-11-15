@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[4121],{8070:a=>{a.exports=JSON.parse('[{"label":"Player Character","permalink":"/docs/tags/player-character","count":13}]')}}]);
