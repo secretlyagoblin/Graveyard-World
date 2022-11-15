@@ -1,9 +1,11 @@
 ---
-slug: nink---ferret-(god)-of-healing-and-restoration
-title: "Nink - Ferret (God) of Healing and Restoration"
+slug: nink
+title: "Nink"
 authors: [welch]
 tags: []
 ---
+
+Ferret (God) of Healing and Restoration
 
 Nink is the Ferret (God) of Healing and Restoration. The physical form she takes is that of a giant ferret. Few have encountered her, as she will only appear to those she chooses to.
  

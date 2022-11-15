@@ -1,9 +1,4 @@
----
-slug: the-beast-coast
-title: "The Beast Coast"
-authors: [welch]
-tags: []
----
+# The Coast
 
 West of Highhaven, this coast was a twisting, gorgeous mess of cliffs, beaches and high trees, home to many races who lived on the bounties of the place where the wild sea met the untamed land.
  

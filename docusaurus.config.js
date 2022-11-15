@@ -27,6 +27,8 @@ const config = {
     locales: ['en'],
   },
 
+  
+
   presets: [
     [
       'classic',
@@ -59,16 +61,20 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
+
+
+      
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'Graveyard World',
         items: [
           {
             type: 'doc',
-            docId: 'home-page',
+            docId: 'main-page',
             position: 'left',
             label: 'Wiki',
           },

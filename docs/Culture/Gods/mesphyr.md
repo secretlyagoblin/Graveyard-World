@@ -1,9 +1,11 @@
 ---
-slug: mesphyr---chameleon-(god)-of-disguise-and-deceit
-title: "Mesphyr - Chameleon (God) of Disguise and Deceit"
+slug: mesphyr
+title: "Mesphyr"
 authors: [welch]
 tags: []
 ---
+
+ Chameleon (God) of Disguise and Deceit
 
 An ascended deity, Mesphyr takes the physical form of a chameleon. Before ascending, Mesphys was an elvish druid attuned to [The Nameless Forest](/wikis/the-nameless-forest).
  

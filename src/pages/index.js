@@ -14,6 +14,10 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p>Amidst the swirling chaos of the Outer Reaches, there exist only a few connected points of peace and security - the cities of the the Lodestone Network.
+ 
+ This is a record of the paths trod and places visited by those few individuals who are brave or foolish enough to step out of these few safe harbours and travel the chaos, to battle great evil and to parley with the gods.
+  </p>
       </div>
     </header>
   );

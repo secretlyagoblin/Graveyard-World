@@ -40,8 +40,6 @@ If the party is intending to go on a journey into a specific, unusual environmen
  
 This upkeep does not cover specialist items like medicine, poison, thieves tools, or spell components that have an associated cost.
  
-* * *
- 
 ## Wilderness
  
 In the wilderness, your only requirements are food and water – all other costs are covered by the gold spent during your resupply. You are a competent party of adventurers, and it is assumed that you have enough supplies to last you until you next reach a town or settlement.
@@ -50,4 +48,3 @@ However, each time that you return to town, you must replace the supplies that y
  
 If a party member has a spell or character feature that allows them to feed themselves or others in the wilderness without the need for rations, do not add to your total bill. If you do not eat a meal, you cannot regain hitpoints except by magical healing.
  
-* * *

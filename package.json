@@ -16,6 +16,8 @@
   "dependencies": {
     "@docusaurus/core": "2.2.0",
     "@docusaurus/preset-classic": "2.2.0",
+    "@fontsource/firago": "^4.5.3",
+    "@fontsource/roboto": "^4.5.8",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^1.3.5",
