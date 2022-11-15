@@ -10,7 +10,7 @@ const config = {
   tagline: '',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/graveyard-world/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -41,6 +41,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          postsPerPage: 20,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
