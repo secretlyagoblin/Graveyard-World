@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-21-The-Sand-Curse
+slug: espis-chapter-21-the-sand-curse
 title: "Espis Chapter 21: The Sand Curse"
 authors: [welch]
 tags: []

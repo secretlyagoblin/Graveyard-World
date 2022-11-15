@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-18-Tensions,-Confrontations,-Rebellion
+slug: espis-chapter-18-tensions,-confrontations,-rebellion
 title: "Espis Chapter 18: Tensions, Confrontations, Rebellion"
 authors: [welch]
 tags: []

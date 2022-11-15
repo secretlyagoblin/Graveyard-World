@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-25-Heart-of-the-Island
+slug: espis-chapter-25-heart-of-the-island
 title: "Espis Chapter 25: Heart of the Island"
 authors: [welch]
 tags: []

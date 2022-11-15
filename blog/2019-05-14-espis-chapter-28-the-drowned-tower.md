@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-28-The-Drowned-Tower
+slug: espis-chapter-28-the-drowned-tower
 title: "Espis Chapter 28: The Drowned Tower"
 authors: [welch]
 tags: []

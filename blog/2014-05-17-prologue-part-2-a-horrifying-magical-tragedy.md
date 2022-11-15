@@ -1,5 +1,5 @@
 ---
-slug: Prologue-Part-2-A-Horrifying-Magical-Tragedy
+slug: prologue-part-2-a-horrifying-magical-tragedy
 title: "Prologue Part 2: A Horrifying Magical Tragedy"
 authors: [welch]
 tags: []

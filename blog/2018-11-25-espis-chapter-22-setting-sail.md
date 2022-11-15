@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-22-Setting-Sail
+slug: espis-chapter-22-setting-sail
 title: "Espis Chapter 22: Setting Sail"
 authors: [welch]
 tags: []

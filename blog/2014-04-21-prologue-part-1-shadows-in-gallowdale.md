@@ -1,5 +1,5 @@
 ---
-slug: Prologue-Part-1-Shadows-in-Gallowdale
+slug: prologue-part-1-shadows-in-gallowdale
 title: "Prologue Part 1: Shadows in Gallowdale"
 authors: [welch]
 tags: []

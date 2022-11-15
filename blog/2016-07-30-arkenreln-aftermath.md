@@ -1,5 +1,5 @@
 ---
-slug: Arkenreln-Aftermath
+slug: arkenreln-aftermath
 title: "Arkenreln Aftermath"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-20-The-Crystal-Spire
+slug: espis-chapter-20-the-crystal-spire
 title: "Espis Chapter 20: The Crystal Spire"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-12-To-Solitude
+slug: espis-chapter-12-to-solitude
 title: "Espis Chapter 12: To Solitude"
 authors: [welch]
 tags: []

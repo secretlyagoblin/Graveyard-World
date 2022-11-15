@@ -1,5 +1,5 @@
 ---
-slug: Arkenreln-Chapter-4-Rebinding-the-Book-of-Laws
+slug: arkenreln-chapter-4-rebinding-the-book-of-laws
 title: "Arkenreln Chapter 4: Rebinding the Book of Laws"
 authors: [welch]
 tags: []

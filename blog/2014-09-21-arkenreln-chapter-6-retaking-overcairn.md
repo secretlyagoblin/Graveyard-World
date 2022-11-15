@@ -1,5 +1,5 @@
 ---
-slug: Arkenreln-Chapter-6-Retaking-Overcairn
+slug: arkenreln-chapter-6-retaking-overcairn
 title: "Arkenreln Chapter 6: Retaking Overcairn"
 authors: [welch]
 tags: []

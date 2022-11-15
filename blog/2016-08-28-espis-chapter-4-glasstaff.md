@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-4-Glasstaff
+slug: espis-chapter-4-glasstaff
 title: "Espis Chapter 4: Glasstaff"
 authors: [welch]
 tags: []

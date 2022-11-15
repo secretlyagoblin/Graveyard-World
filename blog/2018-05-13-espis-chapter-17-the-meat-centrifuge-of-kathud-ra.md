@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-17-The-Meat-Centrifuge-of-Kathud-Ra
+slug: espis-chapter-17-the-meat-centrifuge-of-kathud-ra
 title: "Espis Chapter 17: The Meat Centrifuge of Kathud-Ra"
 authors: [welch]
 tags: []

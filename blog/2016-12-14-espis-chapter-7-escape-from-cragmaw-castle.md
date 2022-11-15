@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-7-Escape-from-Cragmaw-Castle
+slug: espis-chapter-7-escape-from-cragmaw-castle
 title: "Espis Chapter 7: Escape from Cragmaw Castle"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-9-The-Black-Spider
+slug: espis-chapter-9-the-black-spider
 title: "Espis Chapter 9: The Black Spider"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-27-Old-Castien
+slug: espis-chapter-27-old-castien
 title: "Espis Chapter 27: Old Castien"
 authors: [welch]
 tags: []

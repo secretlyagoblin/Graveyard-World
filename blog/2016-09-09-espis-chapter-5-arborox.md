@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-5-Arborox
+slug: espis-chapter-5-arborox
 title: "Espis Chapter 5: Arborox"
 authors: [welch]
 tags: []

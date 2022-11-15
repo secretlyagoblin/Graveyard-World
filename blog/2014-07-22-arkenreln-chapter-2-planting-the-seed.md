@@ -1,5 +1,5 @@
 ---
-slug: Arkenreln-Chapter-2-Planting-the-Seed
+slug: arkenreln-chapter-2-planting-the-seed
 title: "Arkenreln Chapter 2: Planting the Seed"
 authors: [welch]
 tags: []

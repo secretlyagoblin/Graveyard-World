@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-14-The-Three-Seals
+slug: espis-chapter-14-the-three-seals
 title: "Espis Chapter 14: The Three Seals"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-1-The-Goblin-Ambush
+slug: espis-chapter-1-the-goblin-ambush
 title: "Espis Chapter 1: The Goblin Ambush"
 authors: [welch]
 tags: []

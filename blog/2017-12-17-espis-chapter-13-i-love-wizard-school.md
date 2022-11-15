@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-13-I-Love-Wizard-School
+slug: espis-chapter-13-i-love-wizard-school
 title: "Espis Chapter 13: I Love Wizard School"
 authors: [welch]
 tags: []

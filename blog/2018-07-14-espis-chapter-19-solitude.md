@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-19-Solitude
+slug: espis-chapter-19-solitude
 title: "Espis Chapter 19: Solitude"
 authors: [welch]
 tags: []

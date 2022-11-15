@@ -1,5 +1,5 @@
 ---
-slug: Arkenreln-Chapter-5-Returning-to-Overcairn
+slug: arkenreln-chapter-5-returning-to-overcairn
 title: "Arkenreln Chapter 5: Returning to Overcairn"
 authors: [welch]
 tags: []

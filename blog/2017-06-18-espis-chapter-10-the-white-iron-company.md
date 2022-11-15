@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-10-The-White-Iron-Company
+slug: espis-chapter-10-the-white-iron-company
 title: "Espis Chapter 10: The White Iron Company"
 authors: [welch]
 tags: []

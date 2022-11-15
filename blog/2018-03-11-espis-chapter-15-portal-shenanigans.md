@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-15-Portal-Shenanigans
+slug: espis-chapter-15-portal-shenanigans
 title: "Espis Chapter 15: Portal Shenanigans"
 authors: [welch]
 tags: []

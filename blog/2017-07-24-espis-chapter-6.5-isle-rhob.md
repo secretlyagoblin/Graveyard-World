@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-6.5-Isle-Rhob
+slug: espis-chapter-6.5-isle-rhob
 title: "Espis Chapter 6.5: Isle Rhob"
 authors: [welch]
 tags: []

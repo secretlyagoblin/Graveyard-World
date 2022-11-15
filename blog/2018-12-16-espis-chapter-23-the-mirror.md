@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-23-The-Mirror
+slug: espis-chapter-23-the-mirror
 title: "Espis Chapter 23: The Mirror"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-2-Arrival-in-Phandalin
+slug: espis-chapter-2-arrival-in-phandalin
 title: "Espis Chapter 2: Arrival in Phandalin"
 authors: [welch]
 tags: []

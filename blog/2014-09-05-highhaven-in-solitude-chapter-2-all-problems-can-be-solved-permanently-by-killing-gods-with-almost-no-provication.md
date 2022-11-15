@@ -1,5 +1,5 @@
 ---
-slug: Highhaven-in-Solitude-Chapter-2-All-Problems-Can-Be-Solved-Permanently-By-Killing-Gods-With-Almost-No-Provication
+slug: highhaven-in-solitude-chapter-2-all-problems-can-be-solved-permanently-by-killing-gods-with-almost-no-provication
 title: "Highhaven-in-Solitude Chapter 2: All Problems Can Be Solved Permanently By Killing Gods With Almost No Provication"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Arkenreln-Chapter-1-Wall-of-Flesh
+slug: arkenreln-chapter-1-wall-of-flesh
 title: "Arkenreln Chapter 1: Wall of Flesh"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-3-Into-the-Laventius-Estate
+slug: espis-chapter-3-into-the-laventius-estate
 title: "Espis Chapter 3: Into the Laventius Estate"
 authors: [welch]
 tags: []

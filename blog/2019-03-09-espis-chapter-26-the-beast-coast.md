@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-26-The-Beast-Coast
+slug: espis-chapter-26-the-beast-coast
 title: "Espis Chapter 26: The Beast Coast"
 authors: [welch]
 tags: []

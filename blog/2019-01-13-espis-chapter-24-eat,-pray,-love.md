@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-24-Eat,-Pray,-Love
+slug: espis-chapter-24-eat,-pray,-love
 title: "Espis Chapter 24: Eat, Pray, Love"
 authors: [welch]
 tags: []

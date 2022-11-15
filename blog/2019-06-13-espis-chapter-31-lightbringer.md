@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-31-Lightbringer
+slug: espis-chapter-31-lightbringer
 title: "Espis Chapter 31: Lightbringer"
 authors: [welch]
 tags: []

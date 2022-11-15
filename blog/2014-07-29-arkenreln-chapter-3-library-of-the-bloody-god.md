@@ -1,5 +1,5 @@
 ---
-slug: Arkenreln-Chapter-3-Library-of-the-Bloody-God
+slug: arkenreln-chapter-3-library-of-the-bloody-god
 title: "Arkenreln Chapter 3: Library of the Bloody God"
 authors: [welch]
 tags: []

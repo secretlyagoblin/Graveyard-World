@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-33-Daylight
+slug: espis-chapter-33-daylight
 title: "Espis Chapter 33: Daylight"
 authors: [welch]
 tags: []

@@ -1,5 +1,5 @@
 ---
-slug: The-Sands-of-the-First-Sin-Chapter-1-The-Ifrit
+slug: the-sands-of-the-first-sin-chapter-1-the-ifrit
 title: "The Sands of the First Sin Chapter 1: The Ifrit"
 authors: [welch]
 tags: []

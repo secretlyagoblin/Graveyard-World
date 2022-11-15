@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-29-The-Hydra
+slug: espis-chapter-29-the-hydra
 title: "Espis Chapter 29: The Hydra"
 authors: [welch]
 tags: []

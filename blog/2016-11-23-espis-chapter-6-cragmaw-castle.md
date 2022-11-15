@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-6-Cragmaw-Castle
+slug: espis-chapter-6-cragmaw-castle
 title: "Espis Chapter 6: Cragmaw Castle"
 authors: [welch]
 tags: []

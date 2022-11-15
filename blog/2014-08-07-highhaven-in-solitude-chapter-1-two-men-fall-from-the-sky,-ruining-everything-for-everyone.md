@@ -1,5 +1,5 @@
 ---
-slug: Highhaven-in-Solitude-Chapter-1-Two-Men-Fall-From-the-Sky,-Ruining-Everything-For-Everyone
+slug: highhaven-in-solitude-chapter-1-two-men-fall-from-the-sky,-ruining-everything-for-everyone
 title: "Highhaven-in-Solitude Chapter 1: Two Men Fall From the Sky, Ruining Everything For Everyone"
 authors: [welch]
 tags: []

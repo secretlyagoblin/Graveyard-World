@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-30-Into-the-Underdark
+slug: espis-chapter-30-into-the-underdark
 title: "Espis Chapter 30: Into the Underdark"
 authors: [welch]
 tags: []

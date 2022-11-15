@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-11-The-Siege-of-the-Spellforge
+slug: espis-chapter-11-the-siege-of-the-spellforge
 title: "Espis Chapter 11: The Siege of the Spellforge"
 authors: [welch]
 tags: []

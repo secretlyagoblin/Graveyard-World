@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-16-The-Weasley-Child
+slug: espis-chapter-16-the-weasley-child
 title: "Espis Chapter 16: The Weasley Child"
 authors: [welch]
 tags: []

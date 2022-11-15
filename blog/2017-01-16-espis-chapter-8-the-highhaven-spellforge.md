@@ -1,5 +1,5 @@
 ---
-slug: Espis-Chapter-8-The-Highhaven-Spellforge
+slug: espis-chapter-8-the-highhaven-spellforge
 title: "Espis Chapter 8: The Highhaven Spellforge"
 authors: [welch]
 tags: []
