@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Graveyard World',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/graveyard-world/',
+  url: 'http://graveyard.wiki',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
