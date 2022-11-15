@@ -2,7 +2,13 @@
 slug: arkenreln-chapter-4-rebinding-the-book-of-laws
 title: "Arkenreln Chapter 4: Rebinding the Book of Laws"
 authors: [welch]
-tags: []
+tags: 
+   - Arvahnt
+   - Atrius
+   - Eilyac 
+   - Recrentius
+   - Arkenreln
+   - Adventure Log
 ---
 
 In their quest to cleanse the library of the bloody god, Eilyac is killed, and unbeknown to the party makes a deal with Death that when the fate of Arkenreln is in the balance, Eilyac will act to cause destruction, or be forced to become Death himself.

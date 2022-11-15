@@ -2,7 +2,12 @@
 slug: arkenreln-chapter-1-wall-of-flesh
 title: "Arkenreln Chapter 1: Wall of Flesh"
 authors: [welch]
-tags: []
+tags: 
+   - Atrius
+   - Eilyac 
+   - Recrentius
+   - Arkenreln
+   - Adventure Log
 ---
 
 Atrius and Eilyac, drinking at a local bar, are joined by the mysterious Paladin Recrentius, who has received visions of a horrifying event about to take place. Going outside, they see a city besieged by horrifying, gibbering flying crow monsters.

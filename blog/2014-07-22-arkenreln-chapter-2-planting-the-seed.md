@@ -2,7 +2,14 @@
 slug: arkenreln-chapter-2-planting-the-seed
 title: "Arkenreln Chapter 2: Planting the Seed"
 authors: [welch]
-tags: []
+tags: 
+   - Arvahnt
+   - Atrius
+   - Eilyac 
+   - Recrentius
+   - Arkenreln
+   - Adventure Log
+
 ---
 
 [Atrius](/characters/atrius), [Eilyac](/characters/eilyac) and [Recrentius](/characters/recrentius), celebrating at [Filthy Brian’s](/wikis/Filthy%20Brian%27s/new) in the days following the destruction of the wall of flesh, are approached by a stranger. She reveals herself to be [Arvahnt](/characters/arvahnt), having returned to the city to fix the damage she witnessed [Humble Hank](/characters/humble-hank) and [Magicami](/characters/magicami) cause.
