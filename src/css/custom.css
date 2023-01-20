@@ -9,6 +9,7 @@
 @import "@fontsource/roboto";
 
 :root {
+  -ms-text-size-adjust: 12;
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -22,6 +23,13 @@
   --ifm-font-family-base: 'roboto';
 }
 
+@font-face {
+  font-family: "FogleHunter";
+  src: url("/static/fogleHunter.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
 
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -29,7 +37,7 @@
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-darkest: #696347;
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;

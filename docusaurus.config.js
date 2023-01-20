@@ -34,6 +34,15 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+
+
+        
+
+
+
+
+
+
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
@@ -73,10 +82,14 @@ const config = {
         title: 'Graveyard World',
         items: [
           {
-            type: 'doc',
-            docId: 'main-page',
+            to: 'docs/category/realms',
             position: 'left',
-            label: 'Wiki',
+            label: 'World',
+          },
+          {
+            to: 'docs/category/pcs',
+            position: 'left',
+            label: 'Characters',
           },
           {to: '/blog', label: 'Adventure Log', position: 'left'},
           {
