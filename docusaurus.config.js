@@ -86,11 +86,25 @@ const config = {
             position: 'left',
             label: 'World',
           },
+
           {
             to: 'docs/category/pcs',
             position: 'left',
             label: 'Characters',
           },
+
+          {
+            to: 'docs/artifacts/abyssal-crown',
+            position: 'left',
+            label: 'Artifacts',
+          },
+
+          {
+            to: 'docs/rules/darkvision',
+            position: 'left',
+            label: 'Rules',
+          },
+
           {to: '/blog', label: 'Adventure Log', position: 'left'},
           {
             href: 'https://github.com/secretlyagoblin/graveyard-world',
