@@ -1,6 +1,6 @@
 # The Coast
 
-West of Highhaven, this coast was a twisting, gorgeous mess of cliffs, beaches and high trees, home to many races who lived on the bounties of the place where the wild sea met the untamed land.
+This coast was a twisting, gorgeous mess of cliffs, beaches and high trees, home to many races who lived on the bounties of the place where the wild sea met the untamed land.
  
 Nowadays the sea is fished under rigid order, under the control of the [Alu Tel](/wikis/alu-tel) elves, and much of the catch is shipped to human lands for coin, while most of the rest is distributed to the elven settlements.
  
