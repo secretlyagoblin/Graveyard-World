@@ -5,7 +5,11 @@ authors: [welch]
 tags: []
 ---
 
+
+
 Towering in elegant, stepped glory above [the Portal City of Castien](/), carved into the stone and ivory that forms [Qhaduth’s](/) tusk, the Ivory Palace formed the grand new centerpiece of the now land-dwelling [Alu-Tel](/) civilisation. 
+
+![Image of the Ivory palace](img/palace.PNG)
 
 Completing the palace, and using it as a defensive barrier around the [Castien Lodestone](/) was the key project that the nobility of Casten hoped would allow Castien back into the Inner Ring. 
 
