@@ -81,6 +81,13 @@ const config = {
       navbar: {
         title: 'Graveyard World',
         items: [
+
+          {
+            to: 'docs/campaigns/arkenreln',
+            position: 'left',
+            label: 'Campaigns',
+          },
+
           {
             to: 'docs/category/realms',
             position: 'left',
