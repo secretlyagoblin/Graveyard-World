@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraveyard_world=self.webpackChunkgraveyard_world||[]).push([[8378],{155:a=>{a.exports=JSON.parse('{"title":"Realms","description":"yo","slug":"/category/realms","permalink":"/docs/category/realms","navigation":{"next":{"title":"Pillars of Aaqaar","permalink":"/docs/World/Realms/aaqaar/"}}}')}}]);
