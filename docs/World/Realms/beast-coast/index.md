@@ -6,7 +6,7 @@ import DocCardList from '@theme/DocCardList';
 
 
 
-"Bleached bones of long dead sea beasts pepper the coastline of this ancient place."
+Bleached bones of long dead sea beasts pepper the coastline of this ancient place.
 
 
 
